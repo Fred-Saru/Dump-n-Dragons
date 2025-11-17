@@ -1,6 +1,0 @@
-## [[Personages]]
-## [[Lieux]]
-
-## [[PNJ]]
-
-## [[Quêtes]]

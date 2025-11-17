@@ -11,10 +11,14 @@
             "id": "b2a3f904840f12f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Vie Perso/Dnd/La naissance du mal/PNJ/Marte.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Marte"
             }
           }
         ]
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lieux.md",
+                "file": "Vie Perso/Dnd/La naissance du mal/PNJ/Marte.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lieux"
+              "title": "Outline of Marte"
             }
           },
           {
@@ -200,14 +204,29 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "9feee8e18e9a6683",
+  "active": "f43bdfbca956f596",
   "lastOpenFiles": [
-    "Holg.md",
-    "Personages.md",
-    "Grismarais.md",
-    "Lieux.md",
-    "Home.md",
-    "PNJ.md",
+    "Vie Perso/Dnd/La naissance du mal/PNJ/__PNJ.md",
+    "Vie Perso/Dnd/La naissance du mal/PNJ/Marte.md",
+    "Vie Perso/Dnd/La naissance du mal/Players/Old/Spey.md",
+    "Vie Perso/Dnd/La naissance du mal/Players/Old/Nual Sumal.md",
+    "Vie Perso/Dnd/La naissance du mal/Personages.md",
+    "Vie Perso/Dnd/La naissance du mal/Players/Old",
+    "Vie Perso/Dnd/La naissance du mal/Players/Seraphine.md",
+    "Vie Perso/Dnd/La naissance du mal/Players/Kara.md",
+    "Vie Perso/Dnd/La naissance du mal/Places/__Places.md",
+    "Vie Perso/Dnd/La naissance du mal/Players",
+    "Vie Perso/Dnd/La naissance du mal/Lieux.md",
+    "Vie Perso/Dnd/La naissance du mal/Home.md",
+    "Quêtes.md",
+    "Vie Perso/Dnd/La naissance du mal/Places",
+    "Vie Perso/Dnd/La naissance du mal/PNJ",
+    "Vie Perso/Maison",
+    "Vie Perso/Dnd/La naissance du mal",
+    "Vie Perso/Dnd",
+    "Vie Perso",
+    "Vie Perso/Dnd/La naissance du mal/Players/Holg.md",
+    "Vie Perso/Dnd/La naissance du mal/Places/Grismarais.md",
     "Welcome.md"
   ]
 }
