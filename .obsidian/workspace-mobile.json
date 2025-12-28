@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vie Perso/Dnd/La naissance du mal/PNJ/Marcus.md",
+                "file": "Vie Perso/Dnd/La naissance du mal/Places/__Places.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marcus"
+              "title": "__Places"
             }
           }
         ]
@@ -203,7 +203,18 @@
   "active": "f720645f39b84ffc",
   "lastOpenFiles": [
     "Vie Perso/Dnd/La naissance du mal/Places/Chapelle en ruine.md",
+    "Vie Perso/Visionnage/Anime/Les carnets de l'apothicaire.md",
+    "Vie Perso/Visionnage/Série/Slow horses.md",
+    "Vie Perso/Visionnage/Série/Miracle workers.md",
+    "Vie Perso/Visionnage/Série/Time bandit.md",
+    "Vie Perso/Lecture/Manga/Golden Kamui.md",
+    "Vie Perso/Visionnage/Film",
+    "Vie Perso/Visionnage/Série",
+    "Vie Perso/Visionnage/Anime",
+    "Vie Perso/Visionnage",
     "Vie Perso/Dnd/La naissance du mal/PNJ/Marcus.md",
+    "Vie Perso/Lecture/Manga",
+    "Vie Perso/Lecture",
     "Vie Perso/Dnd/La naissance du mal/History/Les écorchés.md",
     "Vie Perso/Dnd/La naissance du mal/History",
     "Vie Perso/Dnd/La naissance du mal/PNJ/Sieb.md",
@@ -218,10 +229,6 @@
     "Vie Perso/Dnd/La naissance du mal/PNJ/Marte.md",
     "Vie Perso/Dnd/La naissance du mal/Players/Old",
     "Vie Perso/Dnd/La naissance du mal/Players",
-    "Vie Perso/Dnd/La naissance du mal/Places",
-    "Vie Perso/Dnd/La naissance du mal/PNJ",
-    "Vie Perso/Dnd/La naissance du mal",
-    "Vie Perso/Dnd",
-    "Vie Perso"
+    "Vie Perso/Dnd/La naissance du mal/Places"
   ]
 }

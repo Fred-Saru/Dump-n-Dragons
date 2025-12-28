@@ -1,1 +1,3 @@
-## [[Grismarais]]
+```dataview
+Table Places
+```
