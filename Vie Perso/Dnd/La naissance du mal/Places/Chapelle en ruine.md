@@ -1,5 +1,5 @@
 ---
-location: "[[Grismarais]]"
+location: "[[Grisemarre]]"
 ---
 
 ### Description
