@@ -1,5 +1,6 @@
 ---
 location: "[[Grisemarre]]"
+type: location
 ---
 
 ### Description
