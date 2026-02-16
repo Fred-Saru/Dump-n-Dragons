@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vie Perso/Dnd/La naissance du mal/Places/__Places.md",
+                "file": "Vie Perso/Dnd/La naissance du mal/PNJ/Sylphia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "__Places"
+              "title": "Sylphia"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vie Perso/Dnd/La naissance du mal/Places/__Places.md",
+                "file": "Vie Perso/Dnd/La naissance du mal/PNJ/Sylphia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for __Places"
+              "title": "Backlinks for Sylphia"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vie Perso/Dnd/La naissance du mal/Places/__Places.md",
+                "file": "Vie Perso/Dnd/La naissance du mal/PNJ/Sylphia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from __Places"
+              "title": "Outgoing links from Sylphia"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vie Perso/Dnd/La naissance du mal/Places/__Places.md",
+                "file": "Vie Perso/Dnd/La naissance du mal/PNJ/Sylphia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of __Places"
+              "title": "Outline of Sylphia"
             }
           },
           {
@@ -225,22 +225,22 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "9feee8e18e9a6683",
+  "active": "b67280df2cf0486f",
   "lastOpenFiles": [
-    "Vie Perso/Dnd/La naissance du mal/PNJ/__PNJ.md",
-    "Vie Perso/Dnd/La naissance du mal/Sessions/__Sessions.md",
     "Vie Perso/Dnd/La naissance du mal/Sessions/Session 1 préparation.md",
+    "Vie Perso/Dnd/La naissance du mal/PNJ/Sylphia.md",
+    "Vie Perso/Dnd/La naissance du mal/PNJ/__PNJ.md",
+    "Vie Perso/Dnd/La naissance du mal/PNJ/Marcus.md",
+    "Vie Perso/Dnd/La naissance du mal/Sessions/Session 1.md",
+    "Vie Perso/Dnd/La naissance du mal/Places/Chapelle en ruine.md",
+    "Vie Perso/Dnd/La naissance du mal/Places/__Places.md",
+    "Vie Perso/Dnd/La naissance du mal/Sessions/__Sessions.md",
     "Vie Perso/Dnd/La naissance du mal/Places/Grisemarre.md",
     "Assets",
-    "Vie Perso/Dnd/La naissance du mal/PNJ/Marcus.md",
-    "Vie Perso/Dnd/La naissance du mal/Places/__Places.md",
     "Vie Perso/Dnd/La naissance du mal/PNJ/Sieb.md",
-    "Vie Perso/Dnd/La naissance du mal/PNJ/Marte.md",
-    "Vie Perso/Dnd/La naissance du mal/Sessions/Session 1.md",
     "Templates/Session.md",
     "Vie Perso/Dnd/La naissance du mal/Sessions/Untitled.md",
     "Templates/Session Preparation.md",
-    "Vie Perso/Dnd/La naissance du mal/Places/Chapelle en ruine.md",
     "Vie Perso/Dnd/La naissance du mal/Players/Seraphine.md",
     "Vie Perso/Dnd/La naissance du mal/Players/Kara.md",
     "Vie Perso/Dnd/La naissance du mal/Players/Holg.md",
