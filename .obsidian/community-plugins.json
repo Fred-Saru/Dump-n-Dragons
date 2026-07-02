@@ -1,11 +1,7 @@
 [
   "obsidian-git",
-  "obsidian-dice-roller",
   "initiative-tracker",
-  "obsidian-leaflet-plugin",
   "templater-obsidian",
   "obsidian-5e-statblocks",
-  "dataview",
-  "obsidian-timeline",
-  "image-converter"
+  "dataview"
 ]
